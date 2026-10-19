@@ -6,7 +6,7 @@
    will read in information for a single atom from an external file.
 */
 
-// A single atom with coordinates */
+// A single atom with coordinates
 struct Atom
 {
   std::string symbol;
